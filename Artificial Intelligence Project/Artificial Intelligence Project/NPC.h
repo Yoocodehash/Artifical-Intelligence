@@ -1,5 +1,6 @@
-class NPC
+class NPC {
+private:
 
-{
+public:
 
 };
